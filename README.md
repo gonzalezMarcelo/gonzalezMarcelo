@@ -1,4 +1,4 @@
-## Opa,tudo tranquilo? Me chamam de Marcelo por aí
+## Opa,tudo tranquilo? Meus amigos me chamam de Marcelo
 
 - 👨🏽‍💻 Sou o carinha do backend que faz a mágica acontecer
 - 🧠 Estou aprendendo MySQL 
