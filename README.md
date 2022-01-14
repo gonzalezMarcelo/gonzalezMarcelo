@@ -1,8 +1,8 @@
 ## Opa,tudo tranquilo? Me chamam de Marcelo por aí
 
-- 🔭 Eu trabalho com a parte do back-end, onde a mágica acontece
-- 🌱 Estou aprendendo Machine Learning 
-- ⚡ Fun fact: Sei falar 5 línguas 
+- 👨🏽‍💻 Sou o carinha do backend que faz a mágica acontecer
+- 🧠 Estou aprendendo MySQL 
+- ⚡ Fun fact: Consigo montar o cubo mágico em 1 minuto 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -13,7 +13,7 @@
   ##
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Marcelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marcelo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcelo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marcelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
